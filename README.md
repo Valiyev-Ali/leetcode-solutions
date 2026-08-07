@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -21,13 +22,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
