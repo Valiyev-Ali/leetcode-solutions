@@ -34,4 +34,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
