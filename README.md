@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,12 +41,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
