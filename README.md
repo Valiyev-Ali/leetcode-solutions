@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
