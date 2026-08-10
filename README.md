@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
@@ -44,12 +45,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
