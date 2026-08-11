@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0566-reshape-the-matrix/) | Easy |
+| [0739-daily-temperatures](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,8 +89,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
