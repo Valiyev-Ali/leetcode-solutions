@@ -47,16 +47,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0566-reshape-the-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0566-reshape-the-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0566-reshape-the-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
