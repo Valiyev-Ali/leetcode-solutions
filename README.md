@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0566-reshape-the-matrix/) | Easy |
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
