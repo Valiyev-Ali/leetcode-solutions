@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [2043-simple-bank-system](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/2043-simple-bank-system/) | Medium |
@@ -120,5 +121,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [2043-simple-bank-system](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/2043-simple-bank-system/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
