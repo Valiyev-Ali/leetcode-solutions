@@ -127,8 +127,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
