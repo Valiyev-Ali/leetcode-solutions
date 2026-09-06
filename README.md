@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2043-simple-bank-system](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Medium/2043-simple-bank-system/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -136,4 +138,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Valiyev-Ali/leetcode-solutions/tree/main/Java/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
